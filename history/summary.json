@@ -4,18 +4,20 @@
     "url": "https://grafana.mc-2.ml",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.mc-2.ml.ico",
     "slug": "grafana-mc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1744,
-    "timeDay": 2070,
-    "timeWeek": 1594,
-    "timeMonth": 1744,
-    "timeYear": 1744,
-    "dailyMinutesDown": {}
+    "time": 1728,
+    "timeDay": 1676,
+    "timeWeek": 1555,
+    "timeMonth": 1728,
+    "timeYear": 1728,
+    "dailyMinutesDown": {
+      "2024-01-22": 0
+    }
   },
   {
     "name": "Redmine",
