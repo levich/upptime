@@ -4,19 +4,19 @@
     "url": "https://grafana.mc-2.ml",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.mc-2.ml.ico",
     "slug": "grafana-mc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1767,
-    "timeDay": 1965,
-    "timeWeek": 1916,
-    "timeMonth": 1770,
-    "timeYear": 1767,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 1773,
+    "timeDay": 2006,
+    "timeWeek": 1932,
+    "timeMonth": 1778,
+    "timeYear": 1773,
     "dailyMinutesDown": {
-      "2024-02-05": 0
+      "2024-02-05": 17
     }
   },
   {
