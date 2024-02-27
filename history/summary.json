@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.mc-2.ml.ico",
     "slug": "grafana-mc",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.89%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.89%",
     "time": 1734,
     "timeDay": 1372,
     "timeWeek": 1708,
     "timeMonth": 1751,
     "timeYear": 1734,
     "dailyMinutesDown": {
-      "2024-02-27": 0,
+      "2024-02-27": 11,
       "2024-02-23": 70,
       "2024-02-05": 17
     }
@@ -26,9 +26,9 @@
     "url": "https://tasks.mc-2.ml",
     "icon": "https://icons.duckduckgo.com/ip3/tasks.mc-2.ml.ico",
     "slug": "redmine",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.23%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.91%",
@@ -38,6 +38,7 @@
     "timeMonth": 1964,
     "timeYear": 2044,
     "dailyMinutesDown": {
+      "2024-02-27": 0,
       "2024-02-23": 78
     }
   },
