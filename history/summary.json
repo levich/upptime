@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.mc-2.ml.ico",
     "slug": "grafana-mc",
     "status": "down",
-    "uptime": "26.84%",
+    "uptime": "26.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "26.84%",
+    "uptimeYear": "26.83%",
     "time": 1822,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1822,
     "dailyMinutesDown": {
-      "2024-08-24": 470,
+      "2024-08-24": 540,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
@@ -216,7 +216,7 @@
     "timeMonth": 0,
     "timeYear": 2052,
     "dailyMinutesDown": {
-      "2024-08-24": 470,
+      "2024-08-24": 540,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
@@ -423,11 +423,11 @@
     "url": "https://yandex.ru",
     "icon": "https://icons.duckduckgo.com/ip3/yandex.ru.ico",
     "slug": "yandex-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2709,
     "timeDay": 2093,
@@ -435,7 +435,7 @@
     "timeMonth": 2613,
     "timeYear": 2709,
     "dailyMinutesDown": {
-      "2024-08-24": 8
+      "2024-08-24": 0
     }
   }
 ]
